@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">English Test</string>
+    <string name="test_your_english">Test your English!</string>
+    <string name="text_go">Go</string>
+    <string name="test_pic">test_picture</string>
+
+    <string name="question_mark">Question mark</string>
+    <string name="question_text_ex">I\'m going to buy............</string>
+    <string name="hat_and_unbrella">hat and unbrella</string>
+    <string name="a_hat_and_an_umbrella">a hat and an umbrella</string>
+    <string name="a_hat_and_a_umbrella">a hat and a umbrella</string>
+    <string name="an_hat_and_an_umbrella">an hat and an umbrella</string>
+    <string name="submit">SUBMIT</string>
+    <string name="Congratulations">Congratulations!</string>
+    <string name="congr_image">congratulation_imag</string>
+    <string name="next_match">Next match</string>
+    <string name="dont_give_up">Don\'t give up!</string>
+    <string name="try_again">Try again</string>
+    <string name="lose_image">lose image</string>
+    <string name="about_image" />
+    <string name="about_text"><i>English Test</i> app can help you to check you knowledge about some English topics. Enjoy it!</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="english_test">English Test</string>
+    <string name="title_about_this_app">About This App</string>
+    <string name="about">About</string>
+    <string name="share_string">Share</string>
+    <string name="share_success_text">"My result in #EnglishTestApp is %1$d/%2$d "</string>
+    <string name="androidPicture">Android\'s Picture</string>
+    <string name="playGame">Play Game</string>
+    <string name="drawerMenuPic">drawerMenuPic</string>
+</resources>
